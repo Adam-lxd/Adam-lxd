@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I'm a graduate student interested in vision-language models and medical image analysis.
+### Loving photography, find me on INS: [adamxood](https://www.instagram.com/adamxood/)
 <!--
 **Adam-lxd/Adam-lxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
