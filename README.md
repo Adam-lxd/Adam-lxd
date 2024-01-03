@@ -1,4 +1,4 @@
-### Hi there 👋. 
+### Hi there 👋.  ![](https://komarev.com/ghpvc/?username=Adam-lxd&style=flat-square)
 I'm a graduate student interested in vision-language models and medical image analysis.
 
 Loving photography, find me on INS: [adamxood](https://www.instagram.com/adamxood/)
